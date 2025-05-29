@@ -16,3 +16,8 @@ res.innerHTML = `${hora}:${minutos}:${segundos}`
 }
 
 setInterval(atualizar,1000)
+
+
+function calcular() {[
+    
+]}
